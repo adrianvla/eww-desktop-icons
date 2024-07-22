@@ -1,0 +1,3 @@
+(box :orientation "vertical" :spacing 10
+  (button :onclick "xdg-open '/home/adrian/Desktop/*'" :tooltip "*" (label :text "*"))
+)
